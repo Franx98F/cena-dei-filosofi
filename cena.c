@@ -6,11 +6,11 @@
 #include <fcntl.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-#include<signal.h>
-#include<string.h>
-#include<stdbool.h>
-#include<time.h>
-#include<sys/time.h>
+#include <signal.h>
+#include <string.h>
+#include <stdbool.h>
+#include <time.h>
+#include <sys/time.h>
 #include <pthread.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
